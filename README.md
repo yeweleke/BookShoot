@@ -31,7 +31,7 @@ I created a promotional video and uploaded it to Youtube. Please click on the im
 <br /><br />
 
 ## Disclaimer
-BookShoot is a product designed and developed by Brian Zhou.All photos used in the app or promotional collaterals are open-source.
+BookShoot is a product designed and developed by Brian Zhou.
 
 ## License
 MIT License
@@ -55,10 +55,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-| Executable  | Repository | Team | Description	|Licence |Author|
-| ------------- | ----------- | ------------- | ------------------------------------- | ------------- | ------------- |
-|[.apk](https://drive.google.com/open?id=1s3FiyAtYhkJwC0REF5UBfiFxPpoPedeA)| [BookShoot](https://github.com/brianzhou139/BookShoot) |edufree|book review and recommendation app|MIT|[@brianzhou139](https://github.com/brianzhou139)|
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
