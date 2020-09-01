@@ -6,9 +6,6 @@
 
 BookShoot is a book review and recommendation app.Users can search or take a picture of a book of interest in a store/library e.t.c  and then instantly read feedback on it or recommendations for similar books from Goodreads, Amazon, and other similar platforms
 
-## Edufree Team
-It consists of 1 team member : Brian Zhou as the UIUX designer and coder 
-
 ## Source Code Review
 * Requirements: [Android Studio](https://developer.android.com/studio/) or [Xcode](https://developer.apple.com/xcode/)<br />
 * Clone this repo/download 
@@ -18,7 +15,7 @@ It consists of 1 team member : Brian Zhou as the UIUX designer and coder
 ## Installation and Testing Guidelines
 There are many ways to test BookShoot:
 - Clone this repo/download  
-- register for api keys using the links provided in the comments in (MainActivity.java) and assign them to the variables 
+- register for api keys using the links provided in the comments (MainActivity.java) and assign them to the variables 
 - compile the code on an emulator or create a signed apk 
 
 ## Promotional Video
